@@ -1,4 +1,4 @@
-<img width="2048" height="1152" alt="download" src="https://github.com/user-attachments/assets/c2609ab5-3293-4bc7-802b-b5c6475904b2" />
+<img width="1080" height="607" alt="download" src="https://github.com/user-attachments/assets/3c798288-d3e9-4f0a-836b-570e66b0a995" />
 
 ## Gesture Automation for Developers
 
