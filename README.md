@@ -1,4 +1,4 @@
-<img width="1080" height="607" alt="download" src="https://github.com/user-attachments/assets/3c798288-d3e9-4f0a-836b-570e66b0a995" />
+<img width="2081" height="1172" alt="signalis" src="https://github.com/user-attachments/assets/fe649d90-afb3-49bf-a104-347a4167b0bb" />
 
 ## Gesture Automation for Developers
 
